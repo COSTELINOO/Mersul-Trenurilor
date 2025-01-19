@@ -1,0 +1,87 @@
+adaugare tren: 101 Bucuresti-Iasi 08:00 14:00 00:00
+adaugare tren: 102 Timisoara-Cluj 09:30 13:45 00:10
+adaugare tren: 103 Oradea-Arad 07:15 09:00 00:05
+adaugare tren: 104 Brasov-Sibiu 06:00 08:30 00:15
+adaugare tren: 105 Constanta-Brasov 05:30 12:00 00:00
+adaugare tren: 106 Arad-Oradea 10:00 12:30 00:20
+adaugare tren: 107 Cluj-Bucuresti 18:00 00:30 00:00
+adaugare tren: 108 Iasi-Timisoara 13:45 21:30 00:10
+adaugare tren: 109 Bucuresti-Brasov 07:00 09:30 00:00
+adaugare tren: 110 Craiova-Constanta 05:00 13:00 00:25
+adaugare tren: 111 Bacau-Galati 04:00 07:00 00:05
+adaugare tren: 112 Sibiu-Brasov 08:15 10:30 00:00
+adaugare tren: 113 Timisoara-Arad 06:45 08:10 00:00
+adaugare tren: 114 Galati-Iasi 15:00 18:00 00:15
+adaugare tren: 115 Oradea-Bucuresti 22:00 06:30 00:10
+adaugare tren: 116 Brasov-Cluj 10:00 14:00 00:00
+adaugare tren: 117 Bucuresti-Sibiu 12:30 16:00 00:05
+adaugare tren: 118 Constanta-Iasi 07:00 16:00 00:00
+adaugare tren: 119 Craiova-Timisoara 11:30 15:00 00:10
+adaugare tren: 120 Arad-Bacau 08:00 16:00 00:00
+adaugare statie: 101 Bucuresti 08:00 08:10 00:00
+adaugare statie: 101 Ploiesti 09:00 09:10 00:00
+adaugare statie: 101 Brasov 11:30 11:40 00:00
+adaugare statie: 101 Iasi 14:00 14:10 00:00
+adaugare statie: 102 Timisoara 09:30 09:40 00:00
+adaugare statie: 102 Lugoj 10:15 10:25 00:00
+adaugare statie: 102 Deva 11:45 11:55 00:00
+adaugare statie: 102 Cluj 13:45 13:55 00:00
+adaugare statie: 103 Oradea 07:15 07:25 00:00
+adaugare statie: 103 Arad 09:00 09:10 00:00
+adaugare statie: 104 Brasov 06:00 06:10 00:00
+adaugare statie: 104 Fagaras 07:00 07:10 00:00
+adaugare statie: 104 Sibiu 08:30 08:40 00:00
+adaugare statie: 105 Constanta 05:30 05:40 00:00
+adaugare statie: 105 Medgidia 06:30 06:40 00:00
+adaugare statie: 105 Bucuresti 08:30 08:40 00:00
+adaugare statie: 105 Brasov 12:00 12:10 00:00
+adaugare statie: 106 Arad 10:00 10:10 00:00
+adaugare statie: 106 Oradea 12:30 12:40 00:00
+modificare statie: 101 Ploiesti 09:10 09:20 00:05
+modificare statie: 102 Lugoj 10:30 10:40 00:05
+modificare statie: 103 Oradea 07:30 07:40 00:05
+modificare statie: 104 Fagaras 07:15 07:25 00:05
+modificare statie: 105 Medgidia 06:45 06:55 00:05
+modificare statie: 106 Arad 10:15 10:25 00:05
+modificare statie: 106 Oradea 12:35 12:45 00:05
+status ruta tren: 101
+status ruta tren: 102
+status ruta tren: 103
+status ruta tren: 104
+status ruta tren: 105
+status statie: 101 Bucuresti
+status statie: 102 Timisoara
+status statie: 103 Oradea
+status statie: 104 Brasov
+status statie: 105 Constanta
+actualizare tren: 101 Bucuresti-Iasi 08:00 14:00 00:10
+actualizare tren: 102 Timisoara-Cluj 09:30 13:45 00:15
+actualizare tren: 103 Oradea-Arad 07:15 09:00 00:10
+actualizare status plecare: 101 08:10
+actualizare status plecare: 102 09:40
+actualizare status plecare: 103 07:25
+actualizare status sosire: 101 14:10
+actualizare status sosire: 102 13:55
+actualizare status sosire: 103 09:10
+actualizare intarziere tren: 101 00:05
+actualizare intarziere tren: 102 00:10
+actualizare intarziere tren: 103 00:15
+plecari urmatoarea ora: 08:00
+plecari urmatoarea ora: 09:00
+plecari urmatoarea ora: 10:00
+sosiri urmatoarea ora: 08:00
+sosiri urmatoarea ora: 09:00
+sosiri urmatoarea ora: 10:00
+intarzierea trenurilor
+intarziere: 101
+intarziere: 102
+intarziere: 103
+mersul trenurilor
+ruta trenurilor
+help
+statii tren: 101
+statii tren: 102
+statii tren: 103
+Trimite
+
+
